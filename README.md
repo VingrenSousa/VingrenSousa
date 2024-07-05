@@ -23,5 +23,4 @@
 
 Aprendendo e mudando minha vida com a tecnologia
 
-## contato :
-- [Email](vingren46@gmail.com)
+
