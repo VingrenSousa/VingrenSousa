@@ -3,7 +3,7 @@
 ### olá Eu sou Vingren Souza ✨
 
 
-![Vingren's GitHub stats](https://github-readme-stats.vercel.app/api?username=VingrenSousa&show_icons=true&theme=merko)
+
 
 ## tecnologias que eu utilizo ✨
 
