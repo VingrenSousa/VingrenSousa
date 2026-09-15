@@ -59,4 +59,5 @@
 ###
 <p align="center">
 <i>"A tecnologia move o mundo?"</i> 
+<i><a href:"https://vingrensouza.netlify.app/"> portfolio</a></i> 
 </p>
