@@ -59,5 +59,12 @@
 ###
 <p align="center">
 <i>"A tecnologia move o mundo?"</i> 
-<i><a href:"https://vingrensouza.netlify.app/"> portfolio</a></i> 
 </p>
+
+###
+<p align="center">
+<i>["portfolio"](https://vingrensouza.netlify.app/)</i> 
+</p>
+
+
+
